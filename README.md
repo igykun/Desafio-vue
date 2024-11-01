@@ -1,29 +1,8 @@
-# Desafio-vue
+Desafio Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Se requiere un cambio al navbar para que este funcione con routerlink, permitiendo enlazar las diferentes vistas del proyecto, en este caso son Productos y Contacto.
+Ademas se requiere la creacion de dichas vistas, en la vista producto se mostraran la lista de productos en un grid, con una card obtenida del componente productos. 
+En la vista contacto se ve simplemente un formulario de contacto.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+https://desafio-vue-omega.vercel.app/ 
+Proyecto levantado en Vercel.
